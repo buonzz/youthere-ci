@@ -1,5 +1,8 @@
 youthere-ci
 ===========
+
+[![Build Status](https://travis-ci.org/buonzz/youthere-ci.svg?branch=master)](https://travis-ci.org/buonzz/youthere-ci)
+
 A CodeIgniter Library to Check if files is present in another server
 
 Have you ever been in a situation that your web application is in server A, then your video/media files is on server B
